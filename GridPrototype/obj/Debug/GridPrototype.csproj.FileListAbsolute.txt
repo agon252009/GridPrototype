@@ -1,0 +1,34 @@
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\App.g.cs
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GridPrototype_MarkupCompile.cache
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GridPrototype_MarkupCompile.lref
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\bin\Debug\GridPrototype.exe.config
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\bin\Debug\GridPrototype.exe
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\bin\Debug\GridPrototype.pdb
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\MainWindow.g.cs
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\MainWindow.baml
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\Themes\Generic.baml
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GridPrototype.g.resources
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GridPrototype.Properties.Resources.resources
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GridPrototype.csproj.GenerateResource.Cache
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GridPrototype.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GridPrototype.exe
+\\mac\home\Documents\Visual Studio 2017\Projects\GridPrototype\GridPrototype\obj\Debug\GridPrototype.pdb
+C:\GridPrototype\GridPrototype\bin\Debug\GridPrototype.exe.config
+C:\GridPrototype\GridPrototype\bin\Debug\GridPrototype.exe
+C:\GridPrototype\GridPrototype\bin\Debug\GridPrototype.pdb
+C:\GridPrototype\GridPrototype\obj\Debug\GridCellPresenter.g.cs
+C:\GridPrototype\GridPrototype\obj\Debug\MainWindow.g.cs
+C:\GridPrototype\GridPrototype\obj\Debug\App.g.cs
+C:\GridPrototype\GridPrototype\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GridPrototype\GridPrototype\obj\Debug\GridPrototype_MarkupCompile.cache
+C:\GridPrototype\GridPrototype\obj\Debug\GridPrototype_MarkupCompile.lref
+C:\GridPrototype\GridPrototype\obj\Debug\GridCellPresenter.baml
+C:\GridPrototype\GridPrototype\obj\Debug\MainWindow.baml
+C:\GridPrototype\GridPrototype\obj\Debug\Themes\Generic.baml
+C:\GridPrototype\GridPrototype\obj\Debug\GridPrototype.g.resources
+C:\GridPrototype\GridPrototype\obj\Debug\GridPrototype.Properties.Resources.resources
+C:\GridPrototype\GridPrototype\obj\Debug\GridPrototype.csproj.GenerateResource.Cache
+C:\GridPrototype\GridPrototype\obj\Debug\GridPrototype.csproj.CoreCompileInputs.cache
+C:\GridPrototype\GridPrototype\obj\Debug\GridPrototype.exe
+C:\GridPrototype\GridPrototype\obj\Debug\GridPrototype.pdb
